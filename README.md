@@ -28,7 +28,6 @@ Contains all design,banners,flyers,standees,brochure, logo design.
 ![facial](https://user-images.githubusercontent.com/82901595/115659645-7debff80-a358-11eb-9f48-d23730be4f84.jpg)
 ![nishtha1](https://user-images.githubusercontent.com/82901595/115659663-87756780-a358-11eb-8bff-fc1184195f00.jpg)
 ![destinations](https://user-images.githubusercontent.com/82901595/115659762-aa078080-a358-11eb-8863-51db35d81183.jpg)
-![registerw](https://user-images.githubusercontent.com/82901595/115659818-bee41400-a358-11eb-9399-c2a010f8326a.jpg)
 ![mk1 (1)](https://user-images.githubusercontent.com/82901595/115659832-c4d9f500-a358-11eb-9cb3-12e4e6b5fbd2.jpg)
 ![nishtha1 (1)](https://user-images.githubusercontent.com/82901595/115659855-cb686c80-a358-11eb-9e1a-2ebb10b3e6d5.jpg)
 ![ca1 (1)](https://user-images.githubusercontent.com/82901595/115659897-dae7b580-a358-11eb-9384-df8ba10b90a0.jpg)
